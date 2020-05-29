@@ -53,11 +53,3 @@ Follow these steps for completing your project:
 - [ ] Running `npm` commands in the wrong folder will not work. **Be aware of what folder you're in** when working in the command line.
 - [ ] The `start` process can sometimes choke after adding new dependencies and may need to be restarted.
 
-## Extra Credit (Only do these tasks if you feel comfortable!)
-
-- [ ] Create a search form that will filter through the data displayed from your characters.
-- [ ] Build a pagination system that will allow you to load the next page of data.
-  - `console.log()` the data coming back from the server.
-  - There might be `next` and `previous` fields that give you a URL.
-  - You can build a function that will get characters called `getCharacters` that you can use dynamically to get the next or previous set of characters. You would need to supply it with the proper fields, and you'll need to set up more state to do this.
-
