@@ -1,14 +1,13 @@
 # rick and morty react
 
-This Sprint explored ReactJS, Function Components, component state, side effects and styling techniques. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
+This project you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
 
 ## Instructions
 
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
+**Read these instructions carefully. Understand exactly what is expected _before_ starting this Project.**
 
 
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL and Instructor in your cohort help channel on Slack.
-
+You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-five rule and seek support in the Discord server.
 
 ## Description
 
