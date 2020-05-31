@@ -19,7 +19,6 @@ In this challenge, create a web page that presents a styled list of **characters
 Follow these steps to set up and work on your project:
 
 - [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
 - [ ] Clone your OWN version of Repo.
 - [ ] Change directories and run `npm install` to retrieve all needed dependencies.
 - [ ] Once you have installed the _node_modules_, run `npm start` to get your server up and running.
