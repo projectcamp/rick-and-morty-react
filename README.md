@@ -2,13 +2,6 @@
 
 This project you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
 
-## Instructions
-
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Project.**
-
-
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-five rule and seek support in the Discord server.
-
 ## Description
 
 In this challenge, create a web page that presents a styled list of **characters obtained from an API**. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
@@ -16,32 +9,24 @@ In this challenge, create a web page that presents a styled list of **characters
 
 ## Project Set Up
 
-Follow these steps to set up and work on your project:
-
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of Repo.
-- [ ] Change directories and run `npm install` to retrieve all needed dependencies.
-- [ ] Once you have installed the _node_modules_, run `npm start` to get your server up and running.
-- [ ] With the server up and running, open Chrome and head over to `localhost:3000` and view your beautiful app. Maybe it's not _that_ pretty... _yet_, your goal is to ensure this project becomes a thing of beauty.
-Follow these steps for completing your project.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
-
-Follow these steps for completing your project:
-
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+1. Create a Github account if you don't have one already. 
+2. Download VS Code if you haven't already. Link here: https://code.visualstudio.com/download
+3. Fork this repository by clicking the button "fork" in the upper right. 
+4. Copy the URL of the new repository by clicking the green "Click or download" button in your repository and clicking the copy icon.
+5.  Create a new folder where you want to store this project. You can call it something like "Coding" or "ProjectCamp".
+6.  Go to your computers terminal application by typing "terminal" in your copmuters search.  At the command line, navigate to the folder by using the "cd" command. For example: "cd desktop", "cd projectcamp" 
+7. Once you are at your desired folder location, clone your new repository by typing `git clone {paste the URL here}`
+8. type `cd rick-and-morty-react`
+9. type `npm install` to retrieve all the dependencies. 
+10. type `npm start` to start the server
+11. Go to http://localhost:3000 - you should see a nice Rick and Morty background"
+12. Open up VS code and click "open". Select the `rick-and-morty-react` folder to open up all the files.
+13. Start your tasks!
+14. To push your code: type `git add .` `git commit -m commit message here` and then `git push origin master` to push your code to master.
 
 ## Tasks
 
 - [ ] Please refer to the Trello board to see each of your tasks!
-
-
-### Best style practices
-
-- [ ] Consistent naming. Examples: variables, functions, Components, and file/folder organization.
-- [ ] Consistent spacing. Examples: line breaks, around arguments and before/after functions.
-- [ ] Consistent quotation usage.
-- [ ] Spell-check.
-- [ ] Schedule time to review, refine and reassess your work.
 
 
 ### Tips and Gotchas
@@ -50,3 +35,4 @@ Follow these steps for completing your project:
 - [ ] Try not to hammer your API while developing. Infinite loops in your code might trigger hundreds of requests!
 - [ ] Running `npm` commands in the wrong folder will not work. **Be aware of what folder you're in** when working in the command line.
 - [ ] The `start` process can sometimes choke after adding new dependencies and may need to be restarted.
+
