@@ -36,3 +36,18 @@ In this challenge, create a web page that presents a styled list of **characters
 - [ ] Running `npm` commands in the wrong folder will not work. **Be aware of what folder you're in** when working in the command line.
 - [ ] The `start` process can sometimes choke after adding new dependencies and may need to be restarted.
 
+## Other Important Information
+
+### Support
+One of our principles is “Embrace the Struggle”. What this means to us is that the way you get better at coding is by struggling through problems. If you’re not struggling, you’re probably not learning. When you struggle through a problem, you’re going through steps that will result in you understanding the problem better than if you didn’t struggle with it.
+Because of this, we ask you that you work on a problem for at least 20 minutes before seeking support. When you do need support, fill out this form:
+https://docs.google.com/forms/d/1-z_AZ5lZthoY8Nume6NP5cCztGUjw523y5GKGYZUG6A/edit?usp=forms_home&ths=true
+As soon as you fill it out, Scott or Aryan will DM you on Discord to help you out. 
+
+### Timing
+We ask that you complete the project no later than Sunday, June 7th. If you don’t think you’ll be able to meet this deadline, please reach out to Scott and Aryan and we will work with you to figure out an alternate plan.
+
+### Feedback Form
+After getting your code review, we ask that you fill out a feedback form that will allow us to improve. We really appreciate as much feedback as you can provide.
+
+
